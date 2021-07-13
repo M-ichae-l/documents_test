@@ -230,11 +230,11 @@ Step 2.Run the Blink example
 | In short, this example makes LED blinks, and it uses GPIO pin 08
   (refer to the pin diagram D08). Then we connect the LED and resistance
   as the following figure:
-| （NOTE: In an LED, the longer pin is the positive pole, and shorter
+| (NOTE: In an LED, the longer pin is the positive pole, and shorter
   pin is the negative pole. So we connect the longer pin to D08, and
   connect the shorter pin to GND. In addition, please use a resister
   with suitable resistance in series between LED and GND to protect
-  LED）
+  LED)
 
 |ambd-get-start-17|
 
