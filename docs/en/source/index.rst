@@ -25,4 +25,4 @@ All getting-started guides, examples, tutorials, API reference and datasheet can
 Search
 ==================
 
-* :ref:`search`
+* :ref:'search'
