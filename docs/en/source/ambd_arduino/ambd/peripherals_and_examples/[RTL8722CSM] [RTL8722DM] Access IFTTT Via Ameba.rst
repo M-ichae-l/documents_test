@@ -146,10 +146,10 @@ Under the host name field, enter the hostname of the IFTTT service
 under the Path field, enter the EventName and key field
 "trigger//with/key/"
 
-− Event name: The event name should be same as the one specified in the
+- Event name: The event name should be same as the one specified in the
 IFTTT applet. In this example, the event name is "test_event"
 
-− Key: available under Webhook service in individual IFTTT account. See
+- Key: available under Webhook service in individual IFTTT account. See
 next step to obtain.
 
 3) How To obtain a key from documentation tab of the Webhooks?

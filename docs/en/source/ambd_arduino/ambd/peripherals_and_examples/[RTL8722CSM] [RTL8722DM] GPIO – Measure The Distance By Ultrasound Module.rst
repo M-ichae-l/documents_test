@@ -24,7 +24,7 @@ calculated by (time/29) / 2 = time / 58. The working voltage of HC-SR04
 is 5V. When we pull high the ECHO pin to 5V, the voltage might cause
 damage to the GPIO pin of Ameba. To avoid this situation, we need to
 drop the voltage as follows:|2|\ We pick the resistors with resistance
-1:2, in the example we use 10kΩ and 20kΩ. If you do not have resistors
+1:2, in the example we use 10k ohm and 20k ohm. If you do not have resistors
 in hand, you can use level converter instead.The TXB0108 8 channel level
 converter is a suitable example:|3|\ Next, open the sample code in
 "File" -> "Examples" -> "AmebaGPIO" ->

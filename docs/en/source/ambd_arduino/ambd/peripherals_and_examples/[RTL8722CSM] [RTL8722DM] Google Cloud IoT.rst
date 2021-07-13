@@ -154,7 +154,7 @@ ret = client.publish(pub_topic, payload);
 
 ..........
 
-　}
+ }
 
 ..........
 

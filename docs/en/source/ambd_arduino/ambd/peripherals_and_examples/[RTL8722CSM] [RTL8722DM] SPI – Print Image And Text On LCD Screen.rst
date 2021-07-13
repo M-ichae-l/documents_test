@@ -1,8 +1,8 @@
 [RTL8722CSM] [RTL8722DM] SPI – Print Image And Text On LCD Screen
 ===================================================================
 
-If you are not familiar with SPI, please read `Introduction to
-SPI <https://www.amebaiot.com/spi-intro/>`__ first.
+If you are not familiar with SPI, please read 'Introduction to
+SPI <https://www.amebaiot.com/spi-intro/>'__ first.
 
 Preparation
 
@@ -54,7 +54,7 @@ Wiring example of QVGA TFT LCD:
    :width: 6.5in
    :height: 4.51736in
 
-| Wiring example of Adafruit 2.8” TFT LCD touch shield:
+| Wiring example of Adafruit 2.8" TFT LCD touch shield:
 | Please note that this shield model enables the backlight by default
   and pin 8 is not for backlight, and the VCC should be connected to 5V.
 
@@ -63,8 +63,8 @@ Wiring example of QVGA TFT LCD:
    :width: 5.20833in
    :height: 5.20833in
 
-Open the example, “Files” -> “Examples” -> “AmebaSPI” ->
-“ILI9341_TFT_LCD_basic”
+Open the example, "Files" -> "Examples" -> "AmebaSPI" ->
+"ILI9341_TFT_LCD_basic"
 
 .. image:: ../media/[RTL8722CSM]_[RTL8722DM]_SPI_Print_Image_And_Text_On_LCD_Screen/image3.png
    :alt: 2
@@ -127,7 +127,7 @@ Code Reference
    -  In our API, each character is 5×7 but each character is printed to
          size 6×8 (its right side and below are left blank), so as to
          separate from next character. For example, the character
-         “A”:|5|
+         "A":|5|
 
    -  The font size represents the dot size. For example, if the font
          size is 2, each dot in the character is a 2×2 rectangle

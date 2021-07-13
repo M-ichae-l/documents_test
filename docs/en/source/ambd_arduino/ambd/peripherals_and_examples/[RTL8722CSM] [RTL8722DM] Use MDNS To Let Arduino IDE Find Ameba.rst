@@ -45,7 +45,7 @@ type name of the board, and it means that Ameba can let Arduino IDE
 identify the mDNS service successfully.(We still can not use the
 Internet to upload the code, and we will explain this part in the OTA
 example.)\ |4|\ If you cannot find the Network ports on your Arduino
-IDE, please check：
+IDE, please check:
 
 -  Does your computer in the same local area network with the Ameba?
 
