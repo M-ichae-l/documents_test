@@ -158,7 +158,7 @@ click "Install", then the Arduino IDE starts to download required files
 for AmebaD.
 
 Finally, we select AmebaD as current connected board in "tools" ->
-"Board" -> "Ameba ARM (32-bits) Boards" ->" RTL8722DM_MINI"：
+"Board" -> "Ameba ARM (32-bits) Boards" ->" RTL8722DM_MINI":
 
 .. image:: ../media/RTL8722DM_mini_Arduino_SDK_getting_start/image8.jpeg
    :alt: get-start-9

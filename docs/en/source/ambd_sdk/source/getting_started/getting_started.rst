@@ -7,9 +7,9 @@ Getting Started
 On Windows, you can use Cygwin as the GCC development environment.
 Cygwin is a large collection of GNU and open source tools which provide
 functionality similar to a Linux distribution on Windows.
-Click `http://cygwin.com/  <http://cygwin.com/>`__\ and download the
+Click 'http://cygwin.com/  <http://cygwin.com/>'__\ and download the
 Cygwin
-package `setup-x86.exe  <http://www.cygwin.com/setup-x86.exe>`__\ for
+package 'setup-x86.exe  <http://www.cygwin.com/setup-x86.exe>'__\ for
 your Windows platform. 1. 32-bit Cygwin is supported both for 32-bit
 Windows and 64-bit Windows. 2. During the installation of Cygwin
 package, include ‘Devel -> make’ and ‘Math -> bc’ utilities on the
@@ -18,8 +18,8 @@ Select Packages page, as below shows.
 \ |1|\ |image1|\ 
 
 For Linux, refer
-to AN0400 Ameba-D `Application
-Note  <https://www.amebaiot.com/sdk-download-manual-8722dm/>`__\ v12.pdf
+to AN0400 Ameba-D 'Application
+Note  <https://www.amebaiot.com/sdk-download-manual-8722dm/>'__\ v12.pdf
 to build the GCC development environment.  
 
 **Knowledge about Ameba-D Demo Board**
@@ -55,27 +55,27 @@ under existing RTK SDK. **Building Code** This section illustrates how
 to build SDK. First, you need to switch to GCC project directory. For
 Windows, open Cygwin terminal and use $ cd command to change directory
 to KM0 or KM4 project directory of Ameba-D SDK. Note: You need to
-replace the {path} to your own SDK location, and add “cygdrive” prefix
+replace the {path} to your own SDK location, and add "cygdrive" prefix
 in front of the SDK location, so that Cygwin can access your file
 system.
 
-``` $ cd ```
+''' $ cd '''
 /cygdrive/{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_lp
 
-``` $ cd ```
+''' $ cd '''
 /cygdrive/{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_hpFor
 Linux, open its own terminal and use $ cd command to change directory to
 KM0 or KM4 project directory of Ameba-D SDK.
 
-``` $ cd /{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_lp ```
+''' $ cd /{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_lp '''
 
-``` $ cd ```
+''' $ cd '''
 
 /{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_hpTo
 build SDK for normal image, simply use $ make all command under the
 corresponding project directories on Cygwin (Windows) or terminal
 (Linux). KM0 project For KM0 project, if the terminal contains
-“km0_image2_all.bin” and “Image manipulating end” output message, it
+"km0_image2_all.bin" and "Image manipulating end" output message, it
 means that the image has been built successfully, as below
 shows.
 
@@ -90,7 +90,7 @@ below shows.
 \ |image5|\ 
 
 KM4 project For KM4 project, if the terminal
-contains “km4_image2_all.bin” and “Image manipulating end” output
+contains "km4_image2_all.bin" and "Image manipulating end" output
 message, it means that the image has been built successfully, as below
 shows.
 

@@ -140,7 +140,7 @@ Try to find ''Realtek AmebaD Boards (32-bits ARM Cortex-M4 @200MHz)'' in the lis
 click ''Install'', then the Arduino IDE starts to download required files 
 for AmebaD.
 
-Finally, we select AmebaD as current connected board in ''"Tools" -> "Board:"RTL8722DM/RTL8722CSM"''：
+Finally, we select AmebaD as current connected board in ''"Tools" -> "Board:"RTL8722DM/RTL8722CSM"'':
 
 |ambd-get-start-9|
 

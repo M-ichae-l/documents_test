@@ -8,7 +8,7 @@ Materials
 
 -  LED x 1
 
--  1KΩ Resistor x 1
+-  1K ohm Resistor x 1
 
 Procedure
 
