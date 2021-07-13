@@ -16,7 +16,7 @@ First, select the correct Ameba development board from the Arduino IDE:
 "Tools" -> "Board" -> "RTL8722CSM/RTL8722DM". Then open the " RTCAlarm "
 example from: "File" -> "Examples" -> "RTC" -> "RTCAlarm":
 
-.. image:: ../media/[RTL8722CSM]_[RTL8722DM]_Simple_RTC_Alarm/image1.png
+.. image:: ../media/[RTL8722CSM]_[RTL8722DM]_Simple_RTC_Alarm/image1.jpeg
    :alt: 1
    :width: 6.25in
    :height: 7.40972in
@@ -27,7 +27,7 @@ button. When the alarm time (10 seconds) is reached the attached
 interrupt function will print the following information: "Alarm
 Matched!" showing in this figure below.
 
-.. image:: ../media/[RTL8722CSM]_[RTL8722DM]_Simple_RTC_Alarm/image2.png
+.. image:: ../media/[RTL8722CSM]_[RTL8722DM]_Simple_RTC_Alarm/image2.jpeg
    :alt: 1
    :width: 6.25in
    :height: 5.99306in
