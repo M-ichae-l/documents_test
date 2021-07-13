@@ -15,13 +15,13 @@ Example
 We have tested the following two models of ILI9341 TFT LCD with SPI
 interface:
 
--  Adafruit 2.8″ TFT LCD (with touch screen)
+-  Adafruit 2.8" TFT LCD (with touch screen)
 
    -  https://www.adafruit.com/products/1651
 
    -  https://learn.adafruit.com/adafruit-2-8-tft-touch-shield-v2?view=all
 
--  QVGA 2.2″ TFT LCD
+-  QVGA 2.2" TFT LCD
 
    -  http://www.lcdwiki.com/2.2inch_SPI_Module_ILI9341_SKU:MSP2202
 
