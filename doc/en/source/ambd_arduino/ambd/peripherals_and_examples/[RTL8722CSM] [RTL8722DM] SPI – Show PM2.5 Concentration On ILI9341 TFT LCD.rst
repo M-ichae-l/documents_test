@@ -1,9 +1,7 @@
-[RTL8722CSM] [RTL8722DM] SPI – Show PM2
-===========================================
+[RTL8722CSM] [RTL8722DM] Detect PM2.5 Concentration In The Air
+===============================================================
 If you are not familiar with SPI, please read `Introduction to
 SPI <https://www.amebaiot.com/spi-intro/>`__ first.
-
- 
 
 Preparation
 

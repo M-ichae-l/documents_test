@@ -4,8 +4,6 @@
 If you are not familiar with SPI, please read `Introduction to
 SPI <https://www.amebaiot.com/spi-intro/>`__ first.
 
- 
-
 Preparation
 
 -  Ameba x 1

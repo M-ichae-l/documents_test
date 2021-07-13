@@ -70,6 +70,7 @@ KM0 or KM4 project directory of Ameba-D SDK.
 ``` $ cd /{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_lp ```
 
 ``` $ cd ```
+
 /{path}/project/realtek_amebaD_va0_example/GCC-RELEASE/project_hpTo
 build SDK for normal image, simply use $ make all command under the
 corresponding project directories on Cygwin (Windows) or terminal
@@ -119,28 +120,28 @@ ImageTool on PC is a server, it sends images files to Ameba (client)
 through UART. To download image from server to client, the client must
 enter uart download first. 1) Enter into UART_DOWNLOAD mode.
 
-- Push the UART DOWNLOAD button and keep it pressed.
+Push the UART DOWNLOAD button and keep it pressed.
 
-- Re-power on the board or press the Reset button.
+Re-power on the board or press the Reset button.
 
-- Release the UART DOWNLOAD button.Now, Ameba board gets into
-  UART_DOWNLOAD mode and is ready to receive data. 2) Click Chip Select
-  (in red) on UI and select chip (AmebaD or AmebaZ). 3) Select the
-  corresponding serial port and transmission baud rate. The default baud
-  rate is 1.5Mbps (recommended). 4) Click the Browse button to select the
-  images (km0_boot_all.bin/km4_boot_all.bin/km0_km4_image2.bin) to be
-  programmed and input addresses.
+Release the UART DOWNLOAD button.Now, Ameba board gets into
+UART_DOWNLOAD mode and is ready to receive data. 2) Click Chip Select
+(in red) on UI and select chip (AmebaD or AmebaZ). 3) Select the
+corresponding serial port and transmission baud rate. The default baud
+rate is 1.5Mbps (recommended). 4) Click the Browse button to select the
+images (km0_boot_all.bin/km4_boot_all.bin/km0_km4_image2.bin) to be
+programmed and input addresses.
 
-- The image path is located in
-  {path}\project\realtek_amebaD_va0_example\GCC-RELEASE\project_hp\asdk\image
-  and
-  {path}\project\realtek_amebaD_va0_example\GCC-RELEASE\project_hp\asdk\image,
-  where {path} is the location of the project on your own computer.
+The image path is located in
+{path}\project\realtek_amebaD_va0_example\GCC-RELEASE\project_hp\asdk\image
+and
+{path}\project\realtek_amebaD_va0_example\GCC-RELEASE\project_hp\asdk\image,
+where {path} is the location of the project on your own computer.
 
-- The default target address is the SDK default image address, you can
-  use it directly.5) Click Download button to start. The progress bar will
-  show the transmit progress of each image. You can also get the message
-  of operation successfully or errors from the log window.\ |image9|
+The default target address is the SDK default image address, you can
+use it directly.5) Click Download button to start. The progress bar will
+show the transmit progress of each image. You can also get the message
+of operation successfully or errors from the log window.\ |image9|
 
 .. |1| image:: ../media/getting_started/image1.png
    :width: 4.16667in
