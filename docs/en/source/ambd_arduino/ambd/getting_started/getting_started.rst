@@ -92,33 +92,33 @@ Step 2. Set up Arduino IDE
 From version 1.6.5, Arduino IDE supports third-party hardware.
 Therefore, we can use Arduino IDE to develop applications on AmebaD,
 and the examples of Arduino can run on AmebaD too. Arduino IDE can be
-downloaded in the 'Arduino website'_.
+downloaded in the `Arduino website`_.
 
 .. _Arduino website: https://www.arduino.cc/en/Main/Software
 
 When the installation is finished, open Arduino IDE. To set up AmebaD
-correctly in Arduino IDE, go to ''"File" -> "Preferences"''
+correctly in Arduino IDE, go to ``"File" -> "Preferences"``
 
 |ambd-get-start-6|
 
-And paste the following URL into ''"Additional Boards Manager URLs"'' field: 
-''https://github.com/ambiot/ambd_arduino/raw/master/Arduino_package/package_realtek.com_amebad_index.json''
+And paste the following URL into ``"Additional Boards Manager URLs"`` field: 
+``https://github.com/ambiot/ambd_arduino/raw/master/Arduino_package/package_realtek.com_amebad_index.json``
 
-Next, go to ''"Tools" -> "Board" -> "Boards Manager"'':
+Next, go to ``"Tools" -> "Board" -> "Boards Manager"``:
 
 |ambd-get-start-7|
 
-The ''"Boards Manager"'' requires about 10~20 seconds to refresh all
+The ``"Boards Manager"`` requires about 10~20 seconds to refresh all
 hardware files (if the network is in bad condition, it may take longer).
 Every time the new hardware is connected, we need to reopen the Board
 Manager. So, we close the Boards Manager, and then open it again. Find
-''"Realtek AmebaD Boards"'' in the list, click ''"Install"'', then the Arduino
+``"Realtek AmebaD Boards"`` in the list, click ``"Install"``, then the Arduino
 IDE starts to download required files for AmebaD.
 
 |ambd-get-start-8|
 
 | If you are facing GitHub downloading issue, please refer to the
-  following link at 'Download/Software Development Kit'_. There are 3
+  following link at `Download/Software Development Kit`_. There are 3
   sections:
 | 1. "AmebaD_Arduino_patch1_SDK", please select at least 1 of the SDKs.
   There are 5 latest released SDK options.
@@ -135,12 +135,12 @@ installation steps. According to your system, please run the
 installation tool in the "Offline_SDK_installation_tool" folder.
 
 After the installation tool running successfully, you may open Arduino
-IDE and proceed to ''"Tools" -> "Board" -> "Boards Manager"''. 
-Try to find ''Realtek AmebaD Boards (32-bits ARM Cortex-M4 @200MHz)'' in the list,
-click ''Install'', then the Arduino IDE starts to download required files 
+IDE and proceed to ``"Tools" -> "Board" -> "Boards Manager"``. 
+Try to find ``Realtek AmebaD Boards (32-bits ARM Cortex-M4 @200MHz)`` in the list,
+click ``Install``, then the Arduino IDE starts to download required files 
 for AmebaD.
 
-Finally, we select AmebaD as current connected board in ''"Tools" -> "Board:"RTL8722DM/RTL8722CSM"'':
+Finally, we select AmebaD as current connected board in ``"Tools" -> "Board:"RTL8722DM/RTL8722CSM"``:
 
 |ambd-get-start-9|
 

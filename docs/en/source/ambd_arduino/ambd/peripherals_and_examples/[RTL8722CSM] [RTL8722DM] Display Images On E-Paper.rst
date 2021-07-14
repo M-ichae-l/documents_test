@@ -15,19 +15,19 @@ system design. The 2.9" active area contains 296×128 pixels and has
 1-bit white/black full display capabilities. An integrated circuit
 contains gate buffer, source buffer, interface, timing control logic,
 oscillator, etc… are supplied with each panel. You may refer to the
-official '2.9inch e-Paper HAT (D)
-datasheet <https://www.waveshare.net/w/upload/b/b5/2.9inch_e-Paper_(D)_Specification.pdf>'__ to
+official `2.9inch e-Paper HAT (D)
+datasheet <https://www.waveshare.net/w/upload/b/b5/2.9inch_e-Paper_(D)_Specification.pdf>`__ to
 know more information about this module. Front view of the e-Paper
 Module:|1|\ RTL8722 wiring diagram:|image1|\ |image2|\ Firstly, you need
 to prepare a picture/photo in the format of 296×128 pixels. We can
-easily find a photo resizing tool online, for example, the 'Online Image
-Resizer <https://resizeimage.net/>'__. Following the instructions on the
+easily find a photo resizing tool online, for example, the `Online Image
+Resizer <https://resizeimage.net/>`__. Following the instructions on the
 website, then download the generated image in JPG format. Secondly, we
 use
-the 'Image2LCD <http://www.waveshare.net/w/upload/3/36/Image2Lcd.7z>'__ tool
+the `Image2LCD <http://www.waveshare.net/w/upload/3/36/Image2Lcd.7z>`__ tool
 to transfer the downloaded 296×128 image into hexadecimal codes. You can
 visit
-this 'YouTube <https://www.youtube.com/watch?v=kAmnU5Y96MA&t=363s>'__ link
+this `YouTube <https://www.youtube.com/watch?v=kAmnU5Y96MA&t=363s>`__ link
 to get detailed instructions. Then we move to the coding part for this
 example. First, make sure the correct Ameba development board is
 selected in Arduino IDE: "Tools" -> "Board" -> "RTL8722CSM/RTL8722DM".

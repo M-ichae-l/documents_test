@@ -97,8 +97,8 @@ Step 2. Set up Arduino IDE
 From version 1.6.5, Arduino IDE supports third-party hardware.
 Therefore, we can use Arduino IDE to develop applications on
 RTL8722DM_MINI, and the examples of Arduino can run on RTL8722DM_MINI
-too. Refer to 'basic example
-link <https://www.amebaiot.com.cn/amebad-mini-arduino-compatible-ex/>'__.
+too. Refer to `basic example
+link <https://www.amebaiot.com.cn/amebad-mini-arduino-compatible-ex/>`__.
 
 | Arduino IDE can be downloaded in the Arduino
   website: https://www.arduino.cc/en/Main/Software
@@ -144,7 +144,7 @@ for AmebaD.
 | 3. "AmebaD_Arduino_Source_Code", this section is optional download
   only wants to refer the latest source code.
 
-'https://www.amebaiot.com.cn/en/ameba-arduino-summary/ <https://www.amebaiot.com.cn/ameba-arduino-summary/>'__
+`https://www.amebaiot.com.cn/en/ameba-arduino-summary/ <https://www.amebaiot.com.cn/ameba-arduino-summary/>`__
 
 Download the files selected, then unzip (patch1 and patch2 are
 compulsory). There are "Install.doc"/"Install.pdf" for you to refer

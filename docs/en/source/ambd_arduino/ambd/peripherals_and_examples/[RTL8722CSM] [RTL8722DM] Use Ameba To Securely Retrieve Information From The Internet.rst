@@ -13,7 +13,7 @@ a computer network, by encrypting the messages passed between server and
 client.
 
 Open the "WiFiSSLClient" example in "File" -> "Examples" -> "AmebaWiFi"
--> " WiFiSSLClient ".
+-> "WiFiSSLClient".
 
 .. image:: ../media/[RTL8722CSM]_[RTL8722DM]_Use_Ameba_To_Securely_Retrieve_Information_From_The_Internet/image1.png
    :alt: 4-1

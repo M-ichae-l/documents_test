@@ -15,8 +15,8 @@ reference system design. The 2.9" active area contains 296×128 pixels
 and has 1-bit white/black full display capabilities. An integrated
 circuit contains gate buffer, source buffer, interface, timing control
 logic, oscillator, etc… are supplied with each panel. You may refer to
-the official '2.9inch e-Paper HAT (D)
-datasheet <https://www.waveshare.net/w/upload/b/b5/2.9inch_e-Paper_(D)_Specification.pdf>'__ to
+the official `2.9inch e-Paper HAT (D)
+datasheet <https://www.waveshare.net/w/upload/b/b5/2.9inch_e-Paper_(D)_Specification.pdf>`__ to
 know more about this module. Front view of the e-Paper
 Module:|1|\ RTL8722 wiring diagram:|image1|\ |image2|\ Firstly, you need
 to open the "DisplayText" example in "File" -> "Examples" -> "AmebaEink"

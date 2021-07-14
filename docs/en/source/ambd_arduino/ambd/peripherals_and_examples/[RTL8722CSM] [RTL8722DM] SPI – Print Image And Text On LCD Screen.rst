@@ -1,8 +1,8 @@
 [RTL8722CSM] [RTL8722DM] SPI – Print Image And Text On LCD Screen
 ===================================================================
 
-If you are not familiar with SPI, please read 'Introduction to
-SPI <https://www.amebaiot.com/spi-intro/>'__ first.
+If you are not familiar with SPI, please read `Introduction to
+SPI <https://www.amebaiot.com/spi-intro/>`__ first.
 
 Preparation
 
